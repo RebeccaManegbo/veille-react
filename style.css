@@ -1,0 +1,25 @@
+body {
+    width: 800px;
+    margin: 0em auto;
+	
+}
+
+
+
+h3 {
+    font-size: 30px;
+    margin: 0px;
+    color: black;
+	text-align: center;
+	border-bottom: 5px solid blue;
+	background-color: lightgrey;
+	}
+	
+h1 {
+    font-size: 80px;
+    margin: 10px;
+    color: black;
+	text-align: center;
+	border: 5px solid blue;
+}
+
